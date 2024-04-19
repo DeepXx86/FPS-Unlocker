@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\FpsUnlocker\FpsUnlocker\bin\Debug\net6.0\FpsUnlocker.exe
+C:\Users\Lenovo\source\repos\FpsUnlocker\FpsUnlocker\bin\Debug\net6.0\FpsUnlocker.deps.json
+C:\Users\Lenovo\source\repos\FpsUnlocker\FpsUnlocker\bin\Debug\net6.0\FpsUnlocker.runtimeconfig.json
+C:\Users\Lenovo\source\repos\FpsUnlocker\FpsUnlocker\bin\Debug\net6.0\FpsUnlocker.dll
+C:\Users\Lenovo\source\repos\FpsUnlocker\FpsUnlocker\bin\Debug\net6.0\FpsUnlocker.pdb
+C:\Users\Lenovo\source\repos\FpsUnlocker\FpsUnlocker\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\FpsUnlocker\FpsUnlocker\obj\Debug\net6.0\FpsUnlocker.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\FpsUnlocker\FpsUnlocker\obj\Debug\net6.0\FpsUnlocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\FpsUnlocker\FpsUnlocker\obj\Debug\net6.0\FpsUnlocker.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\FpsUnlocker\FpsUnlocker\obj\Debug\net6.0\FpsUnlocker.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\FpsUnlocker\FpsUnlocker\obj\Debug\net6.0\FpsUnlocker.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\FpsUnlocker\FpsUnlocker\obj\Debug\net6.0\FpsUnlocker.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\FpsUnlocker\FpsUnlocker\obj\Debug\net6.0\FpsUnlocker.dll
+C:\Users\Lenovo\source\repos\FpsUnlocker\FpsUnlocker\obj\Debug\net6.0\refint\FpsUnlocker.dll
+C:\Users\Lenovo\source\repos\FpsUnlocker\FpsUnlocker\obj\Debug\net6.0\FpsUnlocker.pdb
+C:\Users\Lenovo\source\repos\FpsUnlocker\FpsUnlocker\obj\Debug\net6.0\FpsUnlocker.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\FpsUnlocker\FpsUnlocker\obj\Debug\net6.0\ref\FpsUnlocker.dll
